@@ -234,7 +234,7 @@ body {
 
 /* Header-underlinig */
 
-.header-active-underline:hover::after {
+.header-active-underline::after {
   content: "";
   display: block;
   position: absolute;
