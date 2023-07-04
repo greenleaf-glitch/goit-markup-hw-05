@@ -236,6 +236,7 @@ body {
 /* Header-underlinig */
 
 .header-active-underline::after {
+  color: #404bbf;
   content: "";
   display: block;
   position: absolute;
