@@ -206,7 +206,7 @@ body {
   font-size: 16px;
   line-height: 1.5;
   color: var(--secondary-color);
-  /* color: #404bbf; */
+  color: #404bbf;
   padding-top: 24px;
   padding-bottom: 24px;
   position: relative;
@@ -236,7 +236,6 @@ body {
 /* Header-underlinig */
 
 .header-active-underline::after {
-  color: #404bbf;
   content: "";
   display: block;
   position: absolute;
